@@ -3,7 +3,7 @@
 
 ### Java
 - X1Z.java
-- X2Z.java
+- [X2Z.java](https://github.com/ZoeyeoZ/LeetCode/tree/master/Java)
   1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
   2. [Sort Colors](https://leetcode.com/problems/sort-colors)
   3. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort)
