@@ -2,12 +2,7 @@
 ### C++
 
 ### Java
-- X1Z.java
-- [X2Z.java](https://github.com/ZoeyeoZ/LeetCode/tree/master/Java)
-  1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
-  2. [Sort Colors](https://leetcode.com/problems/sort-colors)
-  3. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort)
-  4. [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii)
-  5. [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)
+- X1Z.java | [X1_Binary Search Tree](http://zoeyeoz.github.io/2018/01/31/X1-Binary-Search-Tree/)
+- X2Z.java | [X2_Wiggle Sort](http://zoeyeoz.github.io/2018/02/04/X2-Wiggle-Sort/)
 
 ### JavaScript
