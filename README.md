@@ -6,3 +6,6 @@
 - X2Z.java | [X2_Wiggle Sort](http://zoeyeoz.github.io/2018/02/04/X2-Wiggle-Sort/)
 
 ### JavaScript
+
+# Program Learning
+[Java | Programming Fundations: Object-Oriented Design](http://zoeyeoz.github.io/2018/02/05/Java-Programming-Fundations-Object-Oriented-Design/)
