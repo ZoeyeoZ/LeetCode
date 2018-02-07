@@ -17,4 +17,4 @@
 
 #### Web
 [淺談 HTTP Method：表單中的 GET 與 POST 有什麼差別？](https://blog.toright.com/posts/1203/淺談-http-method：表單中的-get-與-post-有什麼差別？.html)
-
+[HTML: HTML5 Form Validation Examples](http://www.the-art-of-web.com/html/html5-form-validation/)
