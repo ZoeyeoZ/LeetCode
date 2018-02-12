@@ -2,11 +2,12 @@ package com.company;
 
 public class P778 {
     /*
+    https://discuss.leetcode.com/topic/120455/java-binary-search-dfs-o-n-2logn-12ms
     The idea is find the feasible path when time = t.
     Since time can vary from `grid[0][0]` to `n*n-1`,  we use `Binary Search` for possible time -> O(log g^2) = `O(log n)`
     And every time, we need to verify whether there exists a path from grid[0][0] to grid[n-1][n-1], we use `DFS` to verify the feasibility -> O(log k^2) -> `O(log n^2)`
     So the total time complexity is `O(n^2logn)`
-*/
+    */
     public int swimInWater(int[][] grid) {
         int n = grid.length;
         int l = grid[0][0], r = n * n - 1;
@@ -43,7 +44,7 @@ public class P778 {
     }
 }
 /*
-DP + DFS
+Others: DP + DFS
 final static int[][] steps = {{0,1},{0,-1}, {1,0},{-1,0}};
 public int swimInWater(int[][] grid) {
     int n = grid.length;
