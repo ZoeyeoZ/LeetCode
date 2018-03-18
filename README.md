@@ -6,6 +6,7 @@
 - X1Z.java | [X1_Binary Search Tree](http://zoeyeoz.github.io/2018/01/31/X1-Binary-Search-Tree/)
 - X2Z.java | [X2_Wiggle Sort](http://zoeyeoz.github.io/2018/02/04/X2-Wiggle-Sort/)
 - X3Z.java | [X3_Binary Search](http://zoeyeoz.github.io/2018/02/10/X3-Binary-Search/)
+- [X4_Design Tiny URL | Skyline Problem](http://zoeyeoz.github.io/2018/03/17/X4-Design-Tiny-URL-Skyline-Problem/)
 
 ### JavaScript
 
