@@ -38,5 +38,7 @@ Ref | [淺談 HTTP Method：表單中的 GET 與 POST 有什麼差別？](https:
 
 Ref | [HTML: HTML5 Form Validation Examples](http://www.the-art-of-web.com/html/html5-form-validation/)
 
+[What happens when you type an URL in the browser](http://zoeyeoz.github.io/2018/03/21/What-happens-when-you-type-an-URL-in-the-browser/)
+
 ### ML
 [深度学习模型](https://www.zhihu.com/question/38679133)
