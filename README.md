@@ -20,6 +20,7 @@ LeetCode | [Anagrams](http://zoeyeoz.github.io/2018/03/11/LeetCode-Anagrams/)
 # Algorithm
 Ref | [The Painter’s Partition Problem Part II](https://articles.leetcode.com/the-painters-partition-problem-part-ii/)
 
+Doc | [XCodeService 2018](https://quip.com/E7FmAsFC3F2S), [XCodeService Spring Cloud](https://quip.com/XPGSAX98Gb2q)
 
 # Q
 
