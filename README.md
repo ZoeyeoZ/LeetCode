@@ -6,6 +6,7 @@
 - X3Z.java | [X3_Binary Search](http://zoeyeoz.github.io/2018/02/10/X3-Binary-Search/)
 - [X4_Design Tiny URL | Skyline Problem](http://zoeyeoz.github.io/2018/03/17/X4-Design-Tiny-URL-Skyline-Problem/)
 - [X5_Interval & Sliding Window](http://zoeyeoz.github.io/2018/03/22/X5-Interval-Sliding-Window/)
+- [X6_DP & Knapsack](http://zoeyeoz.github.io/2018/03/26/X6-DP-Knapsack/)
 
 ### JavaScript
 
@@ -19,8 +20,6 @@ LeetCode | [Anagrams](http://zoeyeoz.github.io/2018/03/11/LeetCode-Anagrams/)
 
 # Algorithm
 Ref | [The Painter’s Partition Problem Part II](https://articles.leetcode.com/the-painters-partition-problem-part-ii/)
-
-Doc | [XCodeService 2018](https://quip.com/E7FmAsFC3F2S), [XCodeService Spring Cloud](https://quip.com/XPGSAX98Gb2q)
 
 # Q
 
