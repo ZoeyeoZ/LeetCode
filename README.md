@@ -7,6 +7,7 @@
 - [X4_Design Tiny URL | Skyline Problem](http://zoeyeoz.github.io/2018/03/17/X4-Design-Tiny-URL-Skyline-Problem/)
 - [X5_Interval & Sliding Window](http://zoeyeoz.github.io/2018/03/22/X5-Interval-Sliding-Window/)
 - [X6_DP & Knapsack](http://zoeyeoz.github.io/2018/03/26/X6-DP-Knapsack/)
+- [X7_OOD](http://zoeyeoz.github.io/2018/04/07/X7-OOD/)
 
 ### JavaScript
 
