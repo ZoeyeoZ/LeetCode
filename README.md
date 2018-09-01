@@ -8,6 +8,7 @@
 - [X5_Interval & Sliding Window](http://zoeyeoz.github.io/2018/03/22/X5-Interval-Sliding-Window/)
 - [X6_DP & Knapsack](http://zoeyeoz.github.io/2018/03/26/X6-DP-Knapsack/)
 - [X7_OOD](http://zoeyeoz.github.io/2018/04/07/X7-OOD/)
+- [Summer Lec 1-3](https://zoeyeoz.github.io/2018/08/31/Summer-Lec-1-3/) - Trie / Prefix Tree, Graph: Graph Search, Union Find & Topological Sort
 
 ### JavaScript
 
