@@ -9,7 +9,7 @@
 - [X6_DP & Knapsack](http://zoeyeoz.github.io/2018/03/26/X6-DP-Knapsack/)
 - [X7_OOD](http://zoeyeoz.github.io/2018/04/07/X7-OOD/)
 - [Summer Lec 1-3](https://zoeyeoz.github.io/2018/08/31/Summer-Lec-1-3/) - Trie / Prefix Tree, Graph: Graph Search, Union Find & Topological Sort
-- [Summer Lec 4-5](https://zoeyeoz.github.io/2018/08/31/Summer-Lec-4-5/) - Special Data Structures, DP & Airbnb
+- [Summer Lec 4-5](https://zoeyeoz.github.io/2018/09/05/Summer-Lec-4-5/) - Special Data Structures, DP & Airbnb
 
 ### JavaScript
 
